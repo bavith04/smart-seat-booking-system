@@ -6,7 +6,9 @@
 ![WebSockets](https://img.shields.io/badge/Realtime-Socket.io-black.svg)
 ![Frontend](https://img.shields.io/badge/Frontend-TailwindCSS%20%7C%20Chart.js-blueviolet.svg)
 
-An IoT-based **Smart Seat Booking & Telemetry System** that integrates physical seat pressure sensors, a 4x4 keypad matrix, and an interactive real-time web dashboard powered by WebSockets.
+## 📺 Dashboard Preview
+
+![Smart Seat Booking Dashboard](public/dashboard_preview.png)
 
 ---
 
