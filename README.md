@@ -77,7 +77,7 @@ smart_seat_booking/
 ### 1. Backend Web Server Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/smart_seat_booking.git
+   git clone https://github.com/bavith04/smart_seat_booking.git
    cd smart_seat_booking/server
    ```
 2. Install dependencies:
